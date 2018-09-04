@@ -1,2 +1,5 @@
-# Dataquest-project-solutions
-My Dataquest project solutions
+# Dataquest Projects
+
+This repository is a compilation of my projects from Dataquest. 
+
+
